@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000705677099",
+    "project_id": "uba-chat-af331",
+    "storage_bucket": "uba-chat-af331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000705677099:android:dda367bc6931a78707176e",
+        "android_client_info": {
+          "package_name": "com.DemisPavl.uba_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000705677099-vl7ak3satrsu9r5srk5cr224kmcnnebr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Q3SEQ8vNWi2X-d5-08weklyZts_x7PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000705677099-vl7ak3satrsu9r5srk5cr224kmcnnebr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
