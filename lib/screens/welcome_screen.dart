@@ -66,12 +66,12 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   width: 250.0,
                   child: DefaultTextStyle(
                     style: const TextStyle(
-                      fontSize: 45.0,
-                      fontWeight: FontWeight.w900,
-                    ),
+                        fontSize: 40.0,
+                        fontWeight: FontWeight.w900,
+                        color: Colors.black),
                     child: AnimatedTextKit(
                       animatedTexts: [
-                        TypewriterAnimatedText('Uba Chat'),
+                        TypewriterAnimatedText('GTP Chat'),
                       ],
                       onTap: () {
                         print("Tap Event");
